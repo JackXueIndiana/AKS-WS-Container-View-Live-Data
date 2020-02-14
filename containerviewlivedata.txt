@@ -1,0 +1,50 @@
+2020-02-14T17:45:07.531020517ZHeaders passed in (total 11):
+2020-02-14T17:45:07.531079218Z Host: xxx.229.8.xxx
+2020-02-14T17:45:07.531084218Z X-Real-Ip: 10.244.0.9
+2020-02-14T17:45:07.531177919Z X-Forwarded-For: 10.244.0.9
+2020-02-14T17:45:07.53119512Z X-Forwarded-Proto: http
+2020-02-14T17:45:07.53121732Z Connection: close
+2020-02-14T17:45:07.531257221Z Content-Length: 2064
+2020-02-14T17:45:07.531264221Z User-Agent: python-requests/2.22.0
+2020-02-14T17:45:07.531346622Z Content-Type: application/json
+2020-02-14T17:45:07.531351922Z Accept-Encoding: gzip, deflate
+2020-02-14T17:45:07.531439024Z Accept: */*
+2020-02-14T17:45:07.531458724Z X-Ms-Request-Id: 3428d3b6-815a-4fd2-a5af-692d4ec73cf9
+2020-02-14T17:45:07.531581326ZScoring Timer is set to 3600.0 seconds
+2020-02-14T17:45:07.547313998Z{'Title': 'xpert graphs are not showing any data since 9 40 am pst', 'RootcauseTitle': 'ap change'}
+2020-02-14T17:45:07.547353199Z{"score": "0.6314", "predicted_label": "1"}
+2020-02-14T17:45:07.547591503Z200
+2020-02-14T17:45:07.547950409Z127.0.0.1 - - [14/Feb/2020:17:45:07 +0000] "POST /score HTTP/1.0" 200 53 "-" "python-requests/2.22.0"
+
+
+fcmmlpostmortemdplmntclst
+Container
+View live data (preview)
+View in analytics
+Container Name
+fcmmlpostmortemdplmntclst
+Container ID
+964b6a9995fa0ec4e77e3412e27757b3d34962863e3ce5fce41e983dd3a8369e
+Container Status
+running
+Container Status Reason
+-
+Image
+azureml/azureml_3d56ad699c78923df4192d2bffdee0d6
+Image Tag
+latest
+Container Creation Time Stamp
+2/14/2020, 9:36:04 AM
+Start Time
+2/14/2020, 9:36:04 AM
+Finish Time
+-
+CPU Limit
+3860 mc
+CPU Request
+1000 mc
+Memory Limit
+10.54 GB
+Memory Request
+1
+Last reported
